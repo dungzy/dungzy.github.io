@@ -28,7 +28,7 @@ let BeautifulJekyllJS = {
     // show the big header image
     BeautifulJekyllJS.initImgs();
 
-    BeautifulJekyllJS.initSearch();
+    //BeautifulJekyllJS.initSearch();
   },
 
   initNavbar : function() {
