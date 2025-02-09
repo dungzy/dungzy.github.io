@@ -19,7 +19,7 @@ author: 둥지앱
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Home: "index"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
